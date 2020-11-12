@@ -12,7 +12,7 @@
          - Gradle Learning Note
             * 参见：[GradleLearningNote.md](./GradleLearningNote.md)<br>
 
-      + Gradle - 使用Gradle
+      + Ant - 使用Ant
          - 参考
             * [Working with Build Tools - Using Ant]() - 暂缺<br>
          - Ant Learning Note
