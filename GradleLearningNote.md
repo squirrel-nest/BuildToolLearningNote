@@ -18,9 +18,11 @@
          ```
 # 安装的方法
    * Install with the Gradle Wrapper
+      + 在 Project 中设置。。。
    * Install manually
+      + 解压到指定目录即可
 # 配置的方法
-
+   * 配置 GRADLE_HOME, 然后，设置 Path， 将 GRADLE_HOME/bin 目录添加到 Path
 
 # How to build Gradle App
    * 参考
