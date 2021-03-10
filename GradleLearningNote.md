@@ -23,6 +23,7 @@
       + 解压到指定目录即可
 # 配置的方法
    * 配置 GRADLE_HOME, 然后，设置 Path， 将 GRADLE_HOME/bin 目录添加到 Path --注：Linux/MacOS 中 = 符号中不能加 space【空格】
+   * 配置文件是 /Users/jennywang/.bash_profile
 # 验证配置成功的命令
    * gradle --version
 # How to build Gradle App
