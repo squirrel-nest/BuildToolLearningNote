@@ -22,8 +22,9 @@
    * Install manually
       + 解压到指定目录即可
 # 配置的方法
-   * 配置 GRADLE_HOME, 然后，设置 Path， 将 GRADLE_HOME/bin 目录添加到 Path
-
+   * 配置 GRADLE_HOME, 然后，设置 Path， 将 GRADLE_HOME/bin 目录添加到 Path --注：Linux/MacOS 中 = 符号中不能加 space【空格】
+# 验证配置成功的命令
+   * gradle --version
 # How to build Gradle App
    * 参考
       + [Building Java Libraries Sample](https://docs.gradle.org/current/samples/sample_building_java_libraries.html)<br>
